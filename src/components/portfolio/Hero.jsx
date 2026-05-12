@@ -17,7 +17,7 @@ const Hero = () => (
 
     <div className="stats">
       <div className="stat-card">
-        <div className="stat-num">3+</div>
+        <div className="stat-num">4</div>
         <div className="stat-label">Projects shipped</div>
       </div>
       <div className="stat-card">

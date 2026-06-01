@@ -25,7 +25,7 @@ const Experience = () => (
         <div className="edu-year">2023 — 2027</div>
         <h4>B.Tech, Computer Science Engineering</h4>
         <p>JNTUA College of Engineering, Pulivendula</p>
-        <span className="edu-badge">CGPA 7.4</span>
+        <span className="edu-badge">CGPA 7.6</span>
       </div>
       <div className="edu-card">
         <div className="edu-year">2021 — 2023</div>

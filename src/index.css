@@ -20,7 +20,7 @@ a {
 
 button {
   font-family: inherit;
-  cursor: pointer;
+  cursor:  pointer;
   border: none;
   background: none;
   color: inherit;
@@ -29,4 +29,12 @@ button {
 ::selection {
   background: #b6ff3c;
   color: #0a0a0a;
+}
+* {
+  cursor: url('/pointer.png'), auto;
+}
+
+button,
+a {
+  cursor: url('/pointer.png'), pointer;
 }
